@@ -1,0 +1,140 @@
+body{
+    font-family: 'Alegreya', serif;
+    margin: 0px;
+}
+.con{
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav{
+    
+    padding-top: 3px;
+    background-color: white;
+    height: 60px;
+}
+.icon{
+    width: 14%;
+    margin-left: 73px; 
+    margin-top: 4px;
+}
+.ul-nav{
+    float: right; 
+    list-style-type: none;
+}
+li{
+    color: rgb(155, 151, 151);
+    float: left;
+    font-size: 18px;
+    padding:20px 16px;
+    margin-top: -17px;
+}
+.home-li{
+    color: black; 
+    border-top: solid 3px #8e7754 ; 
+}
+
+.w-home{
+    padding: 150px ; 
+    text-align: center;
+}
+
+
+.who-home{
+    margin-top: 90px;
+    height: 500px;
+}
+
+h1,h3{
+    color: aliceblue;
+    font-weight: 400;
+    font-size: x-large;
+    
+}
+button{
+    padding:17 25px;
+    margin: 5px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.sp-p{
+    color: rgb(121, 119, 119);
+    font-size: 17px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+
+}
+p{
+    color: rgb(99, 98, 98);
+}
+.sp-h1{
+    color: black; float: left; font-size: 32px;
+
+}
+
+.loc-home{
+    height: 580px;
+    background-color:#f8f8f8;
+    margin-top: 130px;
+}
+
+
+.baking-home{
+    text-align: center;
+    height: 750px;
+    padding-top: 60px;
+}
+.item{
+    width: 33.3333%;
+    float: left;
+    text-align: center;
+}
+
+.img-item{
+    width:90%;
+}
+
+.contact{
+    height: 600px;
+    background-color:#f8f8f8;
+    padding-top: 70px;
+}
+
+.end{
+    height: 450px;
+    background-color: #403d38;
+    padding-top: 60px;
+}
+.end-home{
+    float: left; 
+    width: 25%;
+}
+.p-end{
+    font-size: 15px; margin-left:40px; color: rgb(177, 171, 171);
+    border-bottom: solid rgb(83, 80, 80) .25px;
+    padding-bottom:22px ;
+    margin-top: 18px;
+}
+
+.map{
+    background-image: url(images/contact-details-map.png); 
+    background-repeat: no-repeat; 
+    background-position:center; 
+    background-size: contain;
+}
+
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: #353330;
+    text-align: center;
+    
+}
+
+.clr{
+    clear: both;
+}
+
+
